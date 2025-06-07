@@ -20,6 +20,20 @@ A React + Next.js project that fetches transactions from an API with dynamic fil
 - Table updates with filtered results after a 3-second debounce delay.
 - Skeleton animation shows while loading.
 - Dates are displayed in readable format.
+
+---
+
+## Dependencies
+- Frontend
+  - React
+  - Next.js
+  - Axios
+  - TailwindCSS
+- Backend:
+  - Node.js
+  - Express
+  - MongoDB (mongoose)
+  - cors
 ---
 
 ## Getting Started
