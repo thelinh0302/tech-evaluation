@@ -15,6 +15,13 @@ A React + Next.js project that fetches transactions from an API with dynamic fil
 
 ---
 
+## Usage
+- Select transaction type from the dropdown icon next to Transaction Type header.
+- Table updates with filtered results after a 3-second debounce delay.
+- Skeleton animation shows while loading.
+- Dates are displayed in readable format.
+---
+
 ## Getting Started
 
 ### Prerequisites
